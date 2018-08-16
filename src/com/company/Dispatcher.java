@@ -8,6 +8,7 @@ import java.util.concurrent.Executors;
 
 /**
  * This class receives the incoming clients and pass it to an available agent to perform an operation
+ * @author Daniel Rodriguez
  */
 public class Dispatcher {
     /**List of bank agents

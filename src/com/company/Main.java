@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * Project's main class
+ * @author Daniel Rodriguez
  */
 public class Main {
     /**List of clients that are arrive to the bank

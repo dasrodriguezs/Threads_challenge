@@ -2,6 +2,7 @@ package com.company;
 
 /**
  * This is the abstraction of a bank cashier and extends the {@link Agent} class
+ * @author Daniel Rodriguez
  */
 public class Cashier extends Agent {
     /**

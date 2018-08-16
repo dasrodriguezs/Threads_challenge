@@ -1,6 +1,7 @@
 package com.company;
 /**
  * This is the abstraction of a bank director and extends the {@link Agent} class
+ * @author Daniel Rodriguez
  */
 public class Director extends Agent {
     /**

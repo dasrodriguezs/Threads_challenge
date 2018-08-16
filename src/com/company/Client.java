@@ -2,6 +2,7 @@ package com.company;
 
 /**
  * This class is the abstraction of a client wanting to perform a bank operation
+ * @author Daniel Rodriguez
  */
 public class Client {
     /**Name of the client

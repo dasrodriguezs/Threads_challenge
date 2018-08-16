@@ -4,6 +4,7 @@ import java.util.function.Supplier;
 
 /**
  * This class implements {@link Supplier} to perform completable futures with the client's bank operations
+ * @author Daniel Rodriguez
  */
 public class Agent implements Supplier<String> {
     /**Name of the agent
